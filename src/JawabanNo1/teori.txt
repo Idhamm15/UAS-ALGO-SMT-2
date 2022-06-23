@@ -1,0 +1,29 @@
+Nama : Mohamad Idham Bahri
+Nim : 21090073
+Kelas : 2D Teknik Informatika
+
+
+
+
+
+Jawaban Nomer 1 :
+
+Di ketahui :
+Data Nilai : 7,45,1,255,87,45,3,9
+
+Di tanya : Berikut di berikan algo menggunakan quicksort, Berapakah urutan yang terjadi pada saat  p=3, Tulisakn Jalannya perhitungan algo secara detail.
+
+
+Jawab :
+
+1. Yang pertama Di bagian paling atas di algo tersebut, kita membuat method bernama partition dengan jenis variabel integer Kemudian menyebutkan parameternya (interger star, dan integer end)
+
+2. kemudian coding yang ada di bawahnya, mendeklarasikan pivot, mendeteksi pivotnya dari left atau right
+ 
+3. kemudian di bawahnya lagi { for (int j = start; j <= end - 1; j++)
+Coding di atas mengatur dimana integer j sama dengan startnya/mulainya, kemudian integer j akhirannya kurang dari sama dengan 1, kemudian j++, itu artinya di setelah di kerjakan j nya di tambahkan, di tambahkan dan di tambahkan.
+
+
+4. coding seterusnya, data di atas di iris terlebih dahulu menjadi 2 partisi, {menjadi partisi left dan right}  kita menentukan pivotnya, sesuai soal yang di atas urutan yang terjadi pada saat urutan yang terjadi p=3, sesuai data yang di atas data di atas angka 3 ada di urutan yang ke 7, itu berarti pivotnya lebih condong ke kanan/right.
+
+5. Pivotnya sudah ketemu di sebalah kanan, jadi yang jalan adalah karena pivotnya ada di sebelah kanan, berarti yang berjalan di sebalah kiri ke kanan, lalu kemudian di akhir coding data tersebut di return ke codingan atas kembali, kemudian di atas di looping kembali di atas.
