@@ -17,6 +17,21 @@ public class Penagihan {
         this.lokasi = Lokasi;
     }
 
+     public String getToko(){
+            return this.toko;
+        }
+        public void setToko(String toko) {
+            this.bug = toko;
+        }
+
+        public String getLokasi(){
+                    return this.lokasi;
+                }
+                public void setLokasi(String lokasi) {
+                    this.bug = lokasi;
+                }
+
+
 
 
 }

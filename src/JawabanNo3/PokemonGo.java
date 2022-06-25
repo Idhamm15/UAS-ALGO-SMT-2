@@ -28,4 +28,53 @@ public class PokemonGo {
         this.bug = bug;
     }
 
+    public String getDark(){
+        return this.dark;
+    }
+    public void setDark(String dark) {
+        this.bug = dark;
+    }
+
+    public String getDragon(){
+        return this.dragon;
+    }
+    public void setDragon(String dragon) {
+        this.dragon = dragon;
+    }
+
+    public String getElectrik(){
+        return this.electrik;
+    }
+    public void setElectrik(String electrik) {
+        this.electrik = electrik;
+    }
+
+    public String getFairy(){
+        return this.fairy;
+    }
+    public void setFairy(String fairy) {
+        this.fairy = fairy;
+    }
+
+    public String getFighting(){
+        return this.fighting;
+    }
+    public void setFighting(String fighting) {
+        this.fighting = fighting;
+    }
+
+    public String getFlying(){
+        return this.flying;
+    }
+    public void setFlying(String flying) {
+        this.flying = flying;
+    }
+
+    public String getGhost(){
+        return this.ghost;
+    }
+    public void setGhost(String ghost) {
+        this.ghost = ghost;
+    }
+
 }
